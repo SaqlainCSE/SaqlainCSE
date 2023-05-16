@@ -1,13 +1,22 @@
 ![Software Engineer](https://media.licdn.com/dms/image/D5616AQF-3XQlu8Zg2Q/profile-displaybackgroundimage-shrink_350_1400/0/1673415786676?e=1689811200&v=beta&t=OxIoqBB85deFmuUpe-mkAHx2QN2AIQvMFLp1LNl6Bhk)
 
-### Hi there 👋, I'm SaqLain
-#### Software Engineer
+# Hi there 👋, I'm SaqLain
+## Software Engineer
 
 I am a Full Stack Software Engineer. Web App and REST-API Developer who are all ready to Amaze you with my professional skills my flair for creative developing and designing on any type of web app means that I can help you reach your target audience effectively. Drop me a message today and let's make your viewers that killer first impression!
 
 My goal is to deliver work with honesty, safety, and a timely manner. Experienced Software Engineer with a demonstrated history of working in the computer software industry. Strong engineering professional with 2+ years of experience.
 
-Skills: ✔PHP ✔Laravel ✔JS ✔Node.js ✔Express.js ✔React.js ✔Python ✔Django ✔RestAPI ✔C ✔C++ ✔HTML ✔CSS ✔Bootstrap ✔SQL ✔MySQL ✔MongoDB ✔PostgreSQL ✔SQLite ✔Git ✔cPanel ✔AWS ✔Heroku ✔VPS ✔Jira ✔Trello ✔Asana ✔Slack ✔Team ✔VS Code
+💻Skills: <br><br>
+✔PHP ✔JS ✔Python ✔C ✔C++ <br>
+✔Laravel ✔Node.js ✔Express.js ✔React.js ✔Django <br> 
+✔HTML ✔CSS ✔Bootstrap <br>
+✔RestAPI ✔Json <br>
+✔SQL ✔MySQL ✔MongoDB ✔PostgreSQL ✔SQLite <br>
+✔Git ✔cPanel ✔AWS ✔Heroku ✔VPS ✔Docker <br>
+✔Jira ✔Trello ✔Asana <br>
+✔Slack ✔Team <br>
+✔VS Code ✔Sublime Text
 
 - 🔭 I’m currently working on Xoss Technologies Ltd. 
 - 🌱 I’m currently learning SOLID 
