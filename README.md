@@ -9,7 +9,7 @@ My goal is to deliver work with honesty, safety, and a timely manner. Experience
 
 💻Skills: <br><br>
 ✔PHP ✔JS ✔Python ✔C ✔C++ <br>
-✔Laravel ✔Node.js ✔Express.js ✔React.js ✔Django <br> 
+✔Laravel ✔Node.js ✔Express.js ✔Vue.js ✔Django <br> 
 ✔HTML ✔CSS ✔Bootstrap <br>
 ✔RestAPI ✔Json <br>
 ✔SQL ✔MySQL ✔MongoDB ✔PostgreSQL ✔SQLite <br>
@@ -18,7 +18,7 @@ My goal is to deliver work with honesty, safety, and a timely manner. Experience
 ✔Slack ✔Team <br>
 ✔VS Code ✔Sublime Text
 
-- 🔭 I’m currently working on Xoss Technologies Ltd. 
+- 🔭 I’m currently working on CEMS-Global. 
 - 🌱 I’m currently learning SOLID 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Software Development 
