@@ -16,11 +16,12 @@ My goal is to deliver work with honesty, safety, and a timely manner. Experience
 ✔Git ✔cPanel ✔AWS ✔Heroku ✔VPS ✔Docker <br>
 ✔Jira ✔Trello ✔Asana <br>
 ✔Slack ✔Team <br>
-✔VS Code ✔Sublime Text
+✔VS Code ✔Sublime Text <br>
+✔Linux ✔macOS ✔Windows
 
 - 🔭 I’m currently working on CEMS-Global. 
 - 🌱 I’m currently learning SOLID 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Software Development 
 - 📫 How to reach me: saqlaincse@gmail.com 
 
