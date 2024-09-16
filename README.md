@@ -1,4 +1,3 @@
-![Software Engineer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fsoftware-engineer_6009939&psig=AOvVaw1oLBvy2OICfPfldwwq9I-&ust=1726584646132000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCUppbbx4gDFQAAAAAdAAAAABAE)
 
 # Hi there 👋, I'm SaqLain
 ## Software Engineer
