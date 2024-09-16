@@ -4,7 +4,7 @@
 
 I am a Full Stack Software Engineer. Web App and REST-API Developer who are all ready to Amaze you with my professional skills my flair for creative developing and designing on any type of web app means that I can help you reach your target audience effectively. Drop me a message today and let's make your viewers that killer first impression!
 
-I aim to deliver work honestly, safely, and timely. I am an experienced Software Engineer with a demonstrated history of working in the computer software industry. Strong engineering professional with 3+ years of experience.
+I aim to deliver work honestly, safely, and timely. I am an experienced Software Engineer with a demonstrated history of working in the computer software industry. Strong engineering professional with 4 years of experience.
 
 💻Skills: <br><br>
 ✔PHP ✔JS ✔Python ✔C ✔C++ <br>
