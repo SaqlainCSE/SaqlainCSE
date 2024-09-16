@@ -1,11 +1,11 @@
-![Software Engineer](https://media.licdn.com/dms/image/D5616AQF-3XQlu8Zg2Q/profile-displaybackgroundimage-shrink_350_1400/0/1673415786676?e=1689811200&v=beta&t=OxIoqBB85deFmuUpe-mkAHx2QN2AIQvMFLp1LNl6Bhk)
+![Software Engineer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fsoftware-engineer_6009939&psig=AOvVaw1oLBvy2OICfPfldwwq9I-&ust=1726584646132000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCUppbbx4gDFQAAAAAdAAAAABAE)
 
 # Hi there 👋, I'm SaqLain
 ## Software Engineer
 
 I am a Full Stack Software Engineer. Web App and REST-API Developer who are all ready to Amaze you with my professional skills my flair for creative developing and designing on any type of web app means that I can help you reach your target audience effectively. Drop me a message today and let's make your viewers that killer first impression!
 
-My goal is to deliver work with honesty, safety, and a timely manner. Experienced Software Engineer with a demonstrated history of working in the computer software industry. Strong engineering professional with 3+ years of experience.
+I aim to deliver work honestly, safely, and timely. I am an experienced Software Engineer with a demonstrated history of working in the computer software industry. Strong engineering professional with 3+ years of experience.
 
 💻Skills: <br><br>
 ✔PHP ✔JS ✔Python ✔C ✔C++ <br>
@@ -13,7 +13,7 @@ My goal is to deliver work with honesty, safety, and a timely manner. Experience
 ✔HTML ✔CSS ✔Bootstrap <br>
 ✔RestAPI ✔Json <br>
 ✔SQL ✔MySQL ✔MongoDB ✔PostgreSQL ✔SQLite <br>
-✔Git ✔cPanel ✔AWS ✔Heroku ✔VPS ✔Docker <br>
+✔Git ✔AWS ✔Heroku ✔VPS ✔Docker ✔Alibaba ✔HostGator ✔Hostinger ✔Netlify ✔cPanel <br>
 ✔Jira ✔Trello ✔Asana <br>
 ✔Slack ✔Team <br>
 ✔VS Code ✔Sublime Text <br>
