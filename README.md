@@ -35,10 +35,11 @@ I aim to deliver work honestly, safely, and timely. I am an experienced Software
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaqlainCSE&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaqlainCSE)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaqlainCSE&bg_color=ffffff&color=000000&line=000000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
-![GitHub metrics](https://metrics.lecoq.io/SaqlainCSE)  
+[![GitHub Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaqlainCSE&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SaqlainCSE)  
 
-![Profile views](https://gpvc.arturio.dev/SaqlainCSE)  
+![Profile Views](https://komarev.com/ghpvc/?username=SaqlainCSE&label=Profile%20Views&color=blue&style=flat)  
