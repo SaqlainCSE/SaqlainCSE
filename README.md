@@ -2,24 +2,24 @@
 # Hi there 👋, I'm SaqLain
 ## Software Engineer
 
-I am a Full Stack Software Engineer. Web App and REST-API Developer who are all ready to Amaze you with my professional skills my flair for creative developing and designing on any type of web app means that I can help you reach your target audience effectively. Drop me a message today and let's make your viewers that killer first impression!
+I am a Full Stack Software Engineer. Web App, REST-API, ML/AI Developer who are all ready to Amaze you with my professional skills my flair for creative developing and designing on any type of web app means that I can help you reach your target audience effectively. Drop me a message today and let's make your viewers that killer first impression!
 
 I aim to deliver work honestly, safely, and timely. I am an experienced Software Engineer with a demonstrated history of working in the computer software industry. Strong engineering professional with 4 years of experience.
 
 💻Skills: <br><br>
-✔PHP ✔JS ✔Python ✔C ✔C++ <br>
-✔Laravel ✔Node.js ✔Express.js ✔Vue.js ✔Django <br> 
+✔PHP ✔Python ✔JS ✔C ✔C++ <br>
+✔Laravel ✔FastAPI ✔Node.js ✔Express.js ✔Vue.js ✔Django <br> 
 ✔HTML ✔CSS ✔Bootstrap <br>
 ✔RestAPI ✔Json <br>
 ✔SQL ✔MySQL ✔MongoDB ✔PostgreSQL ✔SQLite <br>
-✔Git ✔AWS ✔Heroku ✔VPS ✔Docker ✔Alibaba ✔HostGator ✔Hostinger ✔Netlify ✔cPanel <br>
+✔Git ✔AWS ✔Heroku ✔VPS ✔Docker ✔Alibaba ✔HostGator ✔Hostinger ✔Netlify ✔cPanel ✔Hugging-Face <br>
 ✔Jira ✔Trello ✔Asana <br>
 ✔Slack ✔Team <br>
 ✔VS Code ✔Sublime Text <br>
 ✔Linux ✔macOS ✔Windows
 
 - 🔭 I’m currently working on CEMS-Global. 
-- 🌱 I’m currently learning SOLID 
+- 🌱 I’m currently learning LLM, AI, ML 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Software Development 
 - 📫 How to reach me: saqlaincse@gmail.com 
