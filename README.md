@@ -7,19 +7,19 @@ I am a Full Stack Software Engineer. Web App, REST-API, ML/AI Developer who are 
 I aim to deliver work honestly, safely, and timely. I am an experienced Software Engineer with a demonstrated history of working in the computer software industry. Strong engineering professional with 7+ years of experience.
 
 💻Skills: <br><br>
-✔PHP ✔Python ✔JS ✔C ✔C++ <br>
-✔Laravel ✔FastAPI ✔Node.js ✔Express.js ✔Vue.js ✔Django <br> 
+✔PHP ✔Python ✔JS ✔C# ✔C ✔C++ <br>
+✔Laravel ✔FastAPI ✔Node.js ✔Express.js ✔Vue.js ✔Django ✔ASP.NET Core <br> 
 ✔HTML ✔CSS ✔Bootstrap <br>
 ✔RestAPI ✔Json <br>
 ✔SQL ✔MySQL ✔MongoDB ✔PostgreSQL ✔SQLite <br>
 ✔Git ✔AWS ✔Heroku ✔VPS ✔Docker ✔Alibaba ✔HostGator ✔Hostinger ✔Netlify ✔cPanel ✔Hugging-Face <br>
 ✔Jira ✔Trello ✔Asana <br>
 ✔Slack ✔Team <br>
-✔VS Code ✔Sublime Text <br>
+✔VS Code ✔Cursor  ✔Sublime Text <br>
 ✔Linux ✔macOS ✔Windows
 
 - 🔭 I’m currently working on CEMS-Global. 
-- 🌱 I’m currently learning LLM, AI, ML 
+- 🌱 I’m currently learning LLM, AI, ML, ASP.NET Core 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Software Development 
 - 📫 How to reach me: saqlaincse@gmail.com 
